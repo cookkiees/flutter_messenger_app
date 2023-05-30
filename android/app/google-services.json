@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476760291757",
+    "project_id": "messenger-app-crackers",
+    "storage_bucket": "messenger-app-crackers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476760291757:android:62e9f792d20086e762c924",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFLayVslDRzxm5_pc47J7Rc_lvBBIrFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
